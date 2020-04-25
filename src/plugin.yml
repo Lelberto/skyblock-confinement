@@ -1,0 +1,15 @@
+main: "net.lelberto.skyblockconfinement.Plugin"
+name: "SkyBlockConfinement"
+version: "1.0.0"
+author: "Lelberto"
+depend: ["WorldEdit"]
+api-version: "1.13"
+commands:
+  skyblock:
+    description: "Skyblock general command"
+    aliases: ["sb"]
+  spawn:
+    description: "Teleport to spawn"
+  islandchat:
+    description: "Island chat"
+    aliases: ["ic", "i"]

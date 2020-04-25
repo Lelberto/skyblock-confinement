@@ -1,0 +1,10 @@
+spawn:
+  x: 0
+  y: 133
+  z: 0
+players:
+  - 3c6e:
+      home:
+        x: 0
+        y: 200
+        z: 0

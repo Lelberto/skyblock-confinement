@@ -3,8 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/skyblock_confinement_jar</output-path>
     <root id="archive" name="skyblock-confinement.jar">
       <element id="module-output" name="skyblock-confinement" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/libs/worldedit.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/libs/spigot-1.15.2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
